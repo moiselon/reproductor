@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\reproductor\reproductor\bin\Debug\reproductor.exe.config
+C:\Users\HP\source\repos\reproductor\reproductor\bin\Debug\reproductor.exe
+C:\Users\HP\source\repos\reproductor\reproductor\bin\Debug\reproductor.pdb
+C:\Users\HP\source\repos\reproductor\reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\reproductor\reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.ResolveComReference.cache
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.Reproductor.resources
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.Properties.Resources.resources
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.exe
+C:\Users\HP\source\repos\reproductor\reproductor\obj\Debug\reproductor.pdb
